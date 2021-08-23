@@ -109,7 +109,7 @@ def getArticleLinks(url):
     global dates
     base_date = datetime.date(2020, 6, 5)
     months = {
-        "Jan" : 1,
+        "Jan" : 1 ,
         "Feb": 2,
         "Mar": 3,
         "Apr": 4,
